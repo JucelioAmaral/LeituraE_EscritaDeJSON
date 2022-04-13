@@ -1,6 +1,6 @@
 # Console App de leitura e escrita de arquivos Json
 
-Aplicação console, feita em .Net core 5.0, usando conceitos sobre Serialize e Deserialize.
+Aplicação console, feita em .Net core 5.0, usando conceitos báscios para leitura e escrita de arquivso .json.
 
 ## Pré requisitos
 
